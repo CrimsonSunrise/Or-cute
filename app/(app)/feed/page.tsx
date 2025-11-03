@@ -1,6 +1,6 @@
 const Feed = () => {
 	return (
-		<div>
+		<div className="p-8">
 			Página de feed
 		</div>
 	)
