@@ -1,6 +1,6 @@
 "use client"
 import { useState } from "react";
-import Botao from "./Botao";
+import Botao from "./button";
 
 export default function Filtro() {
   const [ativo, setAtivo] = useState("recente");
